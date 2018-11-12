@@ -1,0 +1,5 @@
+.grid {
+  display: grid;
+  /*flex-flow: row;*/
+  max-width: 100%;
+}
