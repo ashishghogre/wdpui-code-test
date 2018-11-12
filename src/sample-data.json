@@ -1,0 +1,129 @@
+{
+    "companyInfo": {
+        "companyName": "Kovacek Partners",
+        "companyMotto": "efficient whiteboard technologies",
+        "companyEst": "2016-01-30T01:14:54.740Z"
+    },
+    "employees": [
+        {
+            "id": "2fcc4d67-2b2e-4f69-baa2-112da39b52d2",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleclarsoniv/128.jpg",
+            "firstName": "Poppy",
+            "lastName": "Adams",
+            "jobTitle": "Central Program Designer",
+            "age": 28,
+            "bio": "Magni quia explicabo voluptas esse quia veritatis fuga. Voluptatibus aut ut beatae quae aut animi. Quis beatae consequatur ut laboriosam vero minus quibusdam consequuntur. Consequuntur suscipit qui totam aliquid sit distinctio. Dolores qui voluptates in dolores. Maxime ducimus tempore deserunt laborum autem minus rem.",
+            "dateJoined": "2015-08-31T23:59:48.233Z"
+        },
+        {
+            "id": "3b71190b-0d30-4e42-86c3-014e909c4384",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/agustincruiz/128.jpg",
+            "firstName": "Oscar",
+            "lastName": "Emmerich",
+            "jobTitle": "Forward Branding Strategist",
+            "age": 22,
+            "bio": "Doloribus reprehenderit perspiciatis. Quam est aut culpa non dolor nihil voluptates veniam dolores. Aliquid culpa nihil aut dolores in suscipit dolor error. Quia labore velit officiis et illo ea voluptate excepturi consequatur. Sed omnis aliquam rem quo aut rerum fugiat qui quae.",
+            "dateJoined": "2016-05-12T22:07:55.101Z"
+        },
+        {
+            "id": "a5a4273d-dd43-461f-8489-b8638e7b8eeb",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/robinclediere/128.jpg",
+            "firstName": "Justin",
+            "lastName": "Flatley",
+            "jobTitle": "Legacy Communications Manager",
+            "age": 67,
+            "bio": "Nobis quidem repellendus deserunt consequuntur consequuntur. Laboriosam impedit aut labore reprehenderit quia adipisci quidem. Officiis sint omnis ut dolore qui suscipit impedit minima consequatur.",
+            "dateJoined": "2016-08-27T11:08:48.266Z"
+        },
+        {
+            "id": "54e87974-2bf0-4cd2-b052-c90094105426",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/doooon/128.jpg",
+            "firstName": "Ashley",
+            "lastName": "Cartwright",
+            "jobTitle": "National Research Administrator",
+            "age": 41,
+            "bio": "In alias officia. Quaerat possimus sit dignissimos occaecati at doloremque commodi. Qui esse dolorem sunt in rerum. Et ipsam suscipit expedita voluptates unde quis velit minus qui. Incidunt et consectetur nemo velit minus atque.",
+            "dateJoined": "2018-08-29T10:59:30.131Z"
+        },
+        {
+            "id": "4eef53ac-9bcf-4eec-97fd-2d2a353b60ed",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/areandacom/128.jpg",
+            "firstName": "Lilly",
+            "lastName": "Johns",
+            "jobTitle": "Lead Group Coordinator",
+            "age": 34,
+            "bio": "Quam quia non eum ut in aut eaque. Odit voluptatem similique eveniet consequatur qui. Ipsam laudantium excepturi culpa ipsum sit quas omnis eos.",
+            "dateJoined": "2018-07-10T04:01:34.383Z"
+        },
+        {
+            "id": "d75e06f7-6142-4a23-9b4d-f81e13bfdbc5",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bryan_topham/128.jpg",
+            "firstName": "Sofia",
+            "lastName": "Dickinson",
+            "jobTitle": "Senior Accounts Architect",
+            "age": 56,
+            "bio": "Ipsam ratione ab maiores. Eos temporibus cupiditate amet. Sit quia sit corrupti ad amet cum.",
+            "dateJoined": "2015-08-30T11:02:28.237Z"
+        },
+        {
+            "id": "33c62241-2ae5-42ae-a6e9-d927c1ab5670",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/instalox/128.jpg",
+            "firstName": "Gabriella",
+            "lastName": "Taylor",
+            "jobTitle": "Chief Markets Assistant",
+            "age": 62,
+            "bio": "Et similique et labore. Dignissimos est sapiente corrupti qui nostrum sed quae sint. Quia non voluptatem totam ut qui. Et et nobis magnam aut velit velit ipsum. Dignissimos quia nisi error illo quo.",
+            "dateJoined": "2018-10-17T18:22:44.771Z"
+        },
+        {
+            "id": "664f9afd-3739-4560-afa4-a203130f2aa5",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jehnglynn/128.jpg",
+            "firstName": "Callum",
+            "lastName": "Richards",
+            "jobTitle": "Corporate Implementation Designer",
+            "age": 27,
+            "bio": "Mollitia suscipit sit pariatur veniam occaecati. Aut dolores eos non aut saepe iusto in cumque. Facere perferendis voluptates et voluptatem. Repellendus eum sed. Optio ut quod placeat vel vero et et magni. Ut et esse iste.",
+            "dateJoined": "2018-05-17T05:31:51.128Z"
+        },
+        {
+            "id": "74bca4a0-4f49-46a8-a694-8d9d118d51e3",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jervo/128.jpg",
+            "firstName": "Leah",
+            "lastName": "Murray",
+            "jobTitle": "Human Accounts Specialist",
+            "age": 31,
+            "bio": "Odit officiis amet laudantium aspernatur vero voluptatem ad nulla. Voluptatibus quis facere ipsum id eligendi nisi provident. Itaque rerum est magni debitis.",
+            "dateJoined": "2018-06-16T17:21:39.257Z"
+        },
+        {
+            "id": "de58354f-45cc-489d-a2d5-7d791a59f458",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/reideiredale/128.jpg",
+            "firstName": "James",
+            "lastName": "Khan",
+            "jobTitle": "Senior Communications Administrator",
+            "age": 59,
+            "bio": "Sequi voluptas accusamus cupiditate et officia. Quas cumque vero fugiat minima in. Et nihil quia aut explicabo dolorem magnam officia. Pariatur et facilis provident autem occaecati autem incidunt.",
+            "dateJoined": "2018-02-20T20:11:13.781Z"
+        },
+        {
+            "id": "778e66fc-827c-435a-a9c6-63b1dc7998b7",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/edkf/128.jpg",
+            "firstName": "Nate",
+            "lastName": "Cronin",
+            "jobTitle": "Principal Paradigm Consultant",
+            "age": 40,
+            "bio": "Incidunt sapiente voluptatum illum nemo ad ut. Assumenda et nihil recusandae aut neque nihil aut fugiat. Ea quia consectetur laudantium vel nesciunt impedit quis ex consequuntur.",
+            "dateJoined": "2017-04-28T23:49:08.514Z"
+        },
+        {
+            "id": "d94aaab1-3d68-4927-84f8-a8c155b5bacc",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/koridhandy/128.jpg",
+            "firstName": "Cooper",
+            "lastName": "Hudson",
+            "jobTitle": "Product Branding Architect",
+            "age": 18,
+            "bio": "Vero dolores in. Quibusdam quia consequatur soluta ad quo dolorum ut esse. Pariatur est atque mollitia aut. Id est quia dolor est perspiciatis beatae quis dignissimos sit. Non laborum nihil aliquam.",
+            "dateJoined": "2018-04-30T12:20:11.760Z"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+.header {
+  background-color: #ebebeb;
+  font-family: "weissenhof-grotesk";
+  margin-top: -20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-bottom: solid;
+  border-width: 2px;
+}
+.company-title {
+  padding-top: 10px;
+  margin-bottom: -15px;
+}
+.company-details-display {
+  display: flex;
+  flex-direction: row;
+}
+.company-details {
+  width: 50%;
+  margin-bottom: 5px;
+}
+.company-motto {
+  text-align: left;
+}
+.company-since {
+  text-align: right;
+}
