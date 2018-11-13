@@ -1,5 +1,9 @@
 .grid {
-  display: grid;
-  /*flex-flow: row;*/
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
   max-width: 100%;
+  border-top: solid;
+  border-width: 0.1px;
+  margin: 5px 30px 0px 15px;
 }

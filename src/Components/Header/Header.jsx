@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.css";
 
 const Header = props => {
-  let { companyName, companyMotto, companyEst } = props.companyInfo;
+  const { companyName, companyMotto, companyEst } = props;
   return (
     <div className="header">
       <h1 className="company-title">{companyName}</h1>

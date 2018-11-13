@@ -1,5 +1,18 @@
 .card {
   display: flex;
-  flex-direction: row;
+  flex-flow: row;
   max-width: 400px;
+  max-height: 128px;
+  border: solid;
+  border-width: 2px;
+  margin: 15px;
+  overflow: hidden;
+}
+.employee-name {
+  margin: 5px 5px;
+}
+.concise-bio {
+  text-align: justify;
+  margin: 10px 5px;
+  text-overflow: ellipsis;
 }
